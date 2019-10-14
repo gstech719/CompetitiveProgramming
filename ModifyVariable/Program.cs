@@ -8,6 +8,11 @@ namespace ModifyVariable
 {
     class Program
     {
+        /// <summary>
+        /// Rename input variable name from c++ to java and vice-versa
+        /// </summary>
+        /// <param name="inputVariable"></param>
+        /// <returns></returns>
         static string ModifyVariable(string inputVariable)
         {
             if (string.IsNullOrEmpty(inputVariable))
