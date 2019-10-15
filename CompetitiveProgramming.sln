@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModifyVariable", "ModifyVariable\ModifyVariable.csproj", "{77D42FFC-23E7-41FA-A0DF-7D4BF9B58206}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterOccurance", "CharacterOccurance\CharacterOccurance.csproj", "{218D2F69-CD82-4605-AB53-27D6D6C49590}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{77D42FFC-23E7-41FA-A0DF-7D4BF9B58206}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77D42FFC-23E7-41FA-A0DF-7D4BF9B58206}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77D42FFC-23E7-41FA-A0DF-7D4BF9B58206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{218D2F69-CD82-4605-AB53-27D6D6C49590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218D2F69-CD82-4605-AB53-27D6D6C49590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218D2F69-CD82-4605-AB53-27D6D6C49590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218D2F69-CD82-4605-AB53-27D6D6C49590}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
